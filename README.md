@@ -1,10 +1,10 @@
- 👋 Hi, I’m @goksuatas
-- 👀 I’m interested in .software..
-- 🌱 I’m currently learning :c#,python,javascript
-- 📫 How to reach me :atasgoksu1@gmail.com
-- 😄Knows these software languages:c,c++,html,css
-⚡ Fun fact:I'm still a student
-<!---
-goksuatas/goksuatas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Göksu Ataş
+
+🎓 2nd-year Software Engineering student at Kayseri University  
+💻 Passionate about full-stack development & cybersecurity  
+🛠️ Working with: C#, HTML, CSS, SQL  
+🌱 Currently learning: JavaScript, Git, and network security
+
+📌 Portfolio: [goksuatas.github.io/goksu-portfolio](https://goksuatas.github.io/goksu-portfolio)
+
+🔗 Let's connect & grow!
