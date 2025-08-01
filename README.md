@@ -1,53 +1,36 @@
-# 👋 Hi there, I'm Göksu Ataş!
 
-🎓 2nd-year Software Engineering student at Kayseri University  
-🧠 Passionate about **full-stack development** & **cybersecurity**  
-📍 Based in Kayseri, Turkey  
+# 👋 Merhaba, ben Göksu Ataş!
 
----
+🎓 Kayseri Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim.  
+🧠 Şu anda **Python** öğreniyor ve aynı zamanda **etik hackerlık eğitimi** alıyorum.  
+🎯 Hedefim: Siber güvenlik alanında uzmanlaşmak ve bilgi güvenliğine katkı sağlamak.  
 
-## 💻 Technologies I Work With
-
-- **Languages**: C#, C, C++, HTML, CSS, JavaScript (basic)
-- **Database**: SQLite, SQL  
-- **Tools**: Git & GitHub, Windows Forms, Visual Studio, PyCharm  
-- **Concepts**: Object-Oriented Programming, CRUD operations, Cybersecurity basics
+🌐 Portföyüm: [goksuatas.github.io/goksu-portfolio](https://goksuatas.github.io/goksu-portfolio)
 
 ---
 
-## 🌱 Currently Learning
-
-- JavaScript & DOM Manipulation  
-- Web vulnerabilities & OWASP concepts (TryHackMe)  
-- GitHub Proficiency  
-- SQL advanced queries
-
----
-
-## 📌 Featured Projects
-
-🔹 [Personal Portfolio Website](https://goksuatas.github.io/goksu-portfolio)  
-`HTML`, `CSS`, `JavaScript` – A responsive portfolio site showcasing my skills and projects.
-
-🔹 C# Windows Forms CRUD App *(coming soon)*  
-`C#`, `SQLite` – A desktop app simulating real-world data management.
+## 🚀 Yeteneklerim
+- C / C++
+- C# (Windows Forms)
+- Python (Geliştirme aşamasında)
+- HTML / CSS
+- SQL, SQLite
+- Kali Linux & temel siber güvenlik araçları
 
 ---
 
-## 🧠 Interests
-
-- Full-Stack Web Development  
-- Ethical Hacking & Capture The Flag challenges  
-- Network security, Linux & terminal tools  
-- Learning new frameworks and libraries
+## 🧠 Şu anda öğreniyorum
+- Python ile siber güvenlik temelleri
+- Etik hackerlık (ağ güvenliği, zafiyet analizi, terminal kullanımı)
+- Git ve GitHub ile versiyon kontrolü
 
 ---
 
-## 🔗 Let's Connect
-
-📧 atasgoksu1@gmail.com  
-🌐 [My Portfolio](https://goksuatas.github.io/goksu-portfolio)  
-🐙 [GitHub Profile](https://github.com/goksuatas)
+## 📫 Bana Ulaşın
+- LinkedIn: [linkedin.com/in/goksuatas](https://www.linkedin.com/in/goksuatas) *(Varsa güncel URL'yi düzenle)*
+- Mail: goksuatas@example.com *(gerçek e-postanla değiştir)*
 
 ---
-*“Always learning, always building.”*
+
+## 📊 GitHub İstatistikleri
+![Göksu'nun GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=goksuatas&show_icons=true&theme=tokyonight)
