@@ -27,10 +27,8 @@
 ---
 
 ## 📫 Bana Ulaşın
-- LinkedIn: [linkedin.com/in/goksuatas](https://www.linkedin.com/in/goksuatas) *(Varsa güncel URL'yi düzenle)*
-- Mail: goksuatas@example.com *(gerçek e-postanla değiştir)*
+- LinkedIn: https://www.linkedin.com/in/g%C3%B6ksu-ata%C5%9F-b4533932a/
+- Mail: atasgoksu1@gmail.com
 
 ---
 
-## 📊 GitHub İstatistikleri
-![Göksu'nun GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=goksuatas&show_icons=true&theme=tokyonight)
